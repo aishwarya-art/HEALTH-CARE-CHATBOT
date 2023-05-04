@@ -51,9 +51,5 @@ If no errors appeared then the installation is done correctly.
 Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
 
 
-## :suspect: Project Members
 
-- AISHWARYA MS
-- IMPANA MAHESH
-- MISMITHA SURESH
 
